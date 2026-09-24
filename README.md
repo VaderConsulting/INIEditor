@@ -23,7 +23,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/INIEditor`.
+Working copy from my Historical Dev folder `VB/INIEditor`.
 Company names in `.vbp` files: Ali Ezzahir.
 Third-party attribution: Ali Ezzahir. See `THIRD_PARTY_NOTICES.md`.
 
